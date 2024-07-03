@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+    margin: 100px;
+}
+
+.title {
+    background-color: red;
+    height: 42px;
+    width: 400px;
+    margin-left: 330px;
+
+}
+.steps {
+    text-align: justify;
+}
+.list {
+    margin-left: 500px;
+}
